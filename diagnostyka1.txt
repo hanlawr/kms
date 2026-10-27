@@ -1,5 +1,5 @@
-ca³kowita liczba atomów = 125
-wektor œredniego przesuniêcia r_x=-2.842170943040401e-17, r_y=-3.552713678800501e-18, r_z=-2.1316282072803006e-17
-energia kinetyczna przed usuniêciem ruchu œrodka masy = 467.4375
-suma pêdów przed korekt¹ [  3.1392458   84.52464456 -42.05811909]
-suma pêdów po korekcie [-7.10542736e-15  7.28306304e-14  0.00000000e+00]
+ca³kowita liczba atomów = 27
+wektor œredniego przesuniêcia r_x=-1.2335811384723961e-17, r_y=8.22387425648264e-18, r_z=0.0
+energia kinetyczna przed usuniêciem ruchu œrodka masy = 336.555
+suma pêdów przed korekt¹ [ -89.46696569 -117.88602659  -54.43395349]
+suma pêdów po korekcie [-1.06581410e-14 -3.55271368e-15 -2.13162821e-14]
